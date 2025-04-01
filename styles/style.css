@@ -133,7 +133,6 @@ color: #545050;
 
 .search-form__textfield {
   appearance: none;
-  cursor: pointer;
   background-color: inherit;
   border: 1px solid #FFF;
   width: 225px;
