@@ -144,8 +144,7 @@ color: #545050;
   font-size: 18px;
   line-height: 22px;
   color: rgba(255, 255, 255, 0.7);
-  border-left-color: transparent;
-  border-right-color: transparent;
+  border-color: transparent;
 }
 
 .button {
@@ -178,6 +177,7 @@ color: #545050;
   font-size: 18px;
   font-family: 'Oswald', Arial, sans-serif;
   font-style: normal;
+  margin: 2px;
   color: #FFF;
   text-decoration: none;
 }
