@@ -1,1 +1,1 @@
-Яндекс Практикум, практическая работа Посмотри В Окно
+https://github.com/KinoOnAir/posmotri-v-okno-fd
