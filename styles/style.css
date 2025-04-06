@@ -38,10 +38,6 @@ ol {
   list-style: none;
 }
 
-.result {
-  margin-top: 78px;
-}
-
 .visually-hidden {
   position: absolute;
   inline-size: 1px;
@@ -58,13 +54,12 @@ ol {
   align-items: flex-end;
   gap: 30px;
   width: 1140px;
-  height: 534px;
   margin: auto;
 }
 
 .result__video-container {
   position: relative;
-  width: 711px;
+  inline-size: 711px;
   height: 386px;
   margin-bottom: 16px;
 }
@@ -79,7 +74,6 @@ ol {
 .content__details {
   display: flex;
   flex-direction: column;
-  height: 534px;
 }
 
 .content__video-card {
@@ -109,9 +103,9 @@ color: #545050;
 }
 
 .content__list {
-  height: 534px;
+  height: 300px;
   position: relative;
-  overflow: auto;
+  verflow: auto;
   padding-left: 2px;
   padding-right: 2px;
 }
@@ -142,7 +136,6 @@ color: #545050;
   font-size: 18px;
   line-height: 22px;
   color: rgba(255, 255, 255, 0.7);
-  border-color: transparent;
 }
 
 .button {
@@ -216,7 +209,6 @@ color: #545050;
 }
 
 .search-form__fieldset-title {
-  min-height: 22px;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-style: normal;
   font-weight: 400;
