@@ -91,7 +91,7 @@ ol {
   flex: none;
 }
 
-  .title {
+.title {
   font-family: "Oswald", sans-serif;
   font-size: 75px;
   font-style: normal;
@@ -145,7 +145,7 @@ ol {
   border-bottom: 1px solid #fff;
 }
 
-  .button {
+.button {
   height: 34px;
   background-color: transparent;
   border: 1px solid #fff;
@@ -274,7 +274,7 @@ ol {
 }
 
 .content__video-card-description {
-  font-family: "Oswald";
+  font-family: 'Fira Sans Condensed', sans-serif;
   line-height: 16px;
   max-inline-size: 200px;
   text-overflow: ellipsis;
